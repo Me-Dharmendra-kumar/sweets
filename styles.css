@@ -1,0 +1,260 @@
+header{
+    width: 100%;
+    height: 50px; 
+    float: left;
+    box-sizing: border-box;
+    padding: 6px;
+}
+#brand_name{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    float: left;
+    margin-left: 25px;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+}
+#tag_line{
+    float: right;
+    padding: 0%;
+    margin: 0%;
+    margin-top: 8px;
+    font-family: sans-serif;
+     margin-right: 25px;   
+}
+nav{
+    width: 100%;
+    height: 130px;
+    background-color: blue;
+    float: left;
+    box-sizing: border-box;
+    padding: 43px;
+}
+#search{
+    width: 400px;
+    height: 40px;
+    float: left;
+    box-sizing: border-box;
+    border: none;
+    font-size: 20px;
+    padding: 20px;
+}
+#search_bottom{
+    width: 100px;
+    height: 40px;
+    float: left;
+    box-sizing: border-box;
+    margin-left: 5px;
+    font-size: 16px;
+    padding: 10px;
+}
+#menu_table{
+    width: 600px;    
+    height: 40px;
+    float: right;
+    box-sizing: border-box;
+
+}
+#menu_item{
+    background-color: white;
+    width: 20%;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+}
+section{
+    width: 100%;
+    height: 1200px;
+    float: left;
+    box-sizing: border-box;
+    border-width: 1px;
+    border-style: solid;
+    border-color: blue;
+    padding: 30px;
+}
+#address{
+    float: left;
+}
+#phone_number{
+    float: right;
+}
+#popular_sweets_box{
+    width: 720px;
+    height: 550px;
+    float: left;
+    box-sizing: border-box;
+    background-color: black;
+    margin-top: 30px;
+    padding: 32px;
+}
+#Our_Popular_sweet_title{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif ;
+    margin: 0px;
+    padding: 0px;
+    margin-bottom: 20px;
+}
+#Our_Popular_sweet_img{
+    width: 300px;
+    height: 200px;
+    margin: 3px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: blueviolet;
+    
+}
+#rate_list_box{
+    width: 400px; 
+    height: 550px;
+    float: right;
+    box-sizing: border-box;
+    margin-top: 30px;
+}
+#sweets_name{
+    height: 50px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+#rate_content{
+    background-color: blue;
+}
+#s_name{
+    color: white;
+    font-family: sans-serif;
+    font-size: 25px;
+    padding: 8px;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: white;
+
+}
+#rate{
+    color: white;
+    font-family: sans-serif;
+    font-size: 25px;
+    padding: 8px;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: white;
+}
+fieldset{
+    width: 692px;
+    height: 480px;
+    float: left;
+    margin-left: 0px;
+    margin-top: 40px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+}
+legend{
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+#Order_online{
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 2px;
+}
+#Order_input{
+    width: 100%;
+    height: 30px;
+    box-sizing: border-box;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+textarea{
+    width: 100%;
+    height: 60px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    box-sizing: border-box;
+}
+#submit_btton{
+    padding: 10px;
+    float: right;
+    background-color: aqua;
+    font-family: sans-serif;
+    font-size: 20px;
+    border-style: solid;
+}
+#about_Us{
+    width: 398px;
+    height: 487px;
+    float: right;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    margin-top: 49px;
+}
+#sweets_about_us{
+    padding: 10px;
+    font-size: medium;
+    font-family: sans-serif;
+}
+#about_Us_content{
+    text-align: center;
+    font-family: sans-serif;
+    font-style: solid;
+    font-size: 30px;
+}
+footer{
+    width: 100%;
+    height: 250px;
+    box-sizing: border-box;
+     float: left;
+     background-color: black;
+}
+#contect_us{
+    width: 400px;
+    height: 250px;
+    box-sizing: border-box;
+    float: left;
+}
+#socile_link{
+    width: 400px;
+    height: 250px;
+    box-sizing: border-box;
+    float: right;
+}
+#contect_title{
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    
+}
+#contect_detail{
+    color: white;
+    padding: 5px;
+    margin-left: 10px;
+    font-family: sans-serif;
+    font-style: solid;
+}
+#logo_image{
+    width: 60px;
+    height: 50px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#developer{
+    float: left;
+    color: white;
+    font-family: sans-serif;
+    margin-top: 200px;
+    margin-left: 100px;
